@@ -1,0 +1,20 @@
+node --version
+tsc -v
+tsc -help
+--esModuleInterup
+
+Si escribo:
+node
+ya puedo ejecutar codigo javascript directamente para salir de este modo, debo darle dos veces control C
+
+cmd
+cd direccion
+z:
+
+el archivo TS_clase1_1 es un archivo en JS, pero no puede ejecutarse, porque se necesita compilar.
+
+
+Recapitulando
+
+Se crea un archivo .ts, luego ese archivo se puede llevar(compilar) a .js, con el TypeScript (node). Luego el .js se puede ejecutar con node o se puede ejecutar desde un archivo html. 
+ 
