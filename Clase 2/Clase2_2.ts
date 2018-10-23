@@ -11,4 +11,4 @@ if (c!=undefined && c.getContext){
     context.fill();
     context.stroke();
 }else
-    console.log("No se pudo acceder al Canvas")
+    console.log("No se pudo acceder al Canvas");
